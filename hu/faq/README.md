@@ -17,7 +17,7 @@ TODO: migrálni a tartalmakat a levelezésből
 - füvek
 - szelén
 - water (-intoxication), ásványvizek
-- gyakori hibák a magyar étrendben
+- gyakori hibák a magyar étrendekben: [hungarian-1](hungarian-1.md)
 - minta: legolcsóbb létfenntartó étrend
 - minta: legolcsóbb kompromisszumos étrend
 - minta: legolcsóbb kompromisszummentes étrend
