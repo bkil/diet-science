@@ -13,7 +13,7 @@ TODO: migrálni a tartalmakat a levelezésből
 - pthalates (kicsit inkább health mint étkezés)
 - jód, hiperjód
 - tojás
-- tehéntej, kecsketej
+- tehéntej, [kecsketej](goat-milk.md)
 - füvek
 - szelén
 - water (-intoxication), ásványvizek
