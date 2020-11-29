@@ -29,7 +29,8 @@ A magjánál töményebben a leveleiben és szárában, főleg szárítva.
 
 ## Korlátozottan bevihető
 
-* 9 spenót (K-vitamin, A-vitamin, mangán, oxalát)
+- 9 spenót (K-vitamin, A-vitamin, mangán, oxalát)
+- 0.9 kakaópor (teobromin)
 
 ## Jelentősen bevihető
 
@@ -59,7 +60,6 @@ A magjánál töményebben a leveleiben és szárában, főleg szárítva.
 - 1.0 főtt fehérbab
 - 0.9 paradicsom, paradicsomlé
 - 0.9 vöröshagyma
-- 0.9 kakaópor
 - 0.9 citromlé
 - 0.9 kiwi
 - 0.9 egres
