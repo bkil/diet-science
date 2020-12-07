@@ -46,6 +46,7 @@
 * 1.9 főtt paszternák
 * 1.8 főtt zöldbab
 * 1.8 fejessaláta
+* 1.6 édesburgonya
 * 1.2 szójaolaj
 * 1.2 földieper
 * 0.9 főtt tojás
