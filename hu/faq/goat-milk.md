@@ -29,7 +29,7 @@
 
 ### Előny
 
-- kicsit több B3, C vitamin, kálium
+- kicsit több B3, C-vitamin, kálium
 
 ### Semleges (optimális étrendben nem limitáló tápanyagból többlet)
 
@@ -37,7 +37,7 @@
 
 ### Hátrány
 
-- kevesebb B2 vitamin
+- kevesebb B2-vitamin
 - több telített zsír
 - kevesebb omega-3 zsírsav
 - kevesebb B9, B12 (húspótló) vitamin, szelén, cink
@@ -45,4 +45,4 @@
 ## Értékelés
 
 - Nem sikerült bizonyítani a kecsketej árhoz mért többletértékét, de még azonos áron sem.
-- Alacsonyabb B12 vitamintartalma miatt nem javasolt vegán étrendben húspótlásként kiegészítő tabletták nélkül.
+- Alacsonyabb B12-vitamintartalma miatt nem javasolt vegán étrendben húspótlásként kiegészítő tabletták nélkül.

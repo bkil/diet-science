@@ -18,7 +18,7 @@
 * 12 spenót (oxalát)
 * 4 fagyasztott vagy főtt répa (oxalát)
 * 2 nyers répa
-* 1.1 csemegeuborka (K vitamin és egyebek)
+* 1.1 csemegeuborka (K-vitamin és egyebek)
 
 ## Jelentősen bevihető
 
