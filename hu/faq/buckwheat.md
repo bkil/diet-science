@@ -9,6 +9,7 @@
 * 0.8 vs. 0.4 B9-vitamin
 * 2.6 vs. 1.8 magnézium
 * 3.5 vs. 2.3 réz
+* A lisztérzékenységben szenvedők bizonyos zabfajtákra is érzékenyek és/vagy keresztszennyezettség esetén, míg a tiszta hajdinára nem
 
 ### Hátrány
 
@@ -20,7 +21,9 @@
 * 1.2 vs. 2.6 cink
 * 0 vs. 5.7 béta-glükán
 * 0.9 vs. 2.9 szelén
-* aminosav-profilban szinte mindenben szempontból
+* Aminosav-profilban szinte minden szempontból
+* Egyesek heves allergiás reakciót mutatnak a hajdinára
+* Jelentős fogyasztás esetén fagopyrin tartalma fototoxikus mellékhatásokat okozhat
 
 ### Hasonló
 
@@ -31,7 +34,7 @@
 
 ## Értékelés
 
-* Nehéz beszerezni
+* Nehéz beszerezni kisboltban
 * Ára két-háromszoros, emiatt kevesebbet tudnánk az emberek asztalára tenni belőle
 * A zabpehely majdnem mindenben majorálja
 * Az előnyei közül csak a B3 és B6-ban értékelhető forrás (>1) és a korlátozók közül csak a magnéziumban kiemelkedő (>2), de mindből számtalan olcsó alternatíva rendelkezésre áll
